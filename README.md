@@ -1,6 +1,14 @@
 # neighborhood-classification
 Neighborhood classification in the city of Kuala Lumpur for opening a new restaurant.
 
+## Table of Contents
+* [Introduction & General Information](#introduction---general-information)
+* [Objectives](#objectives)
+* [Data Used](#data-used)
+* [Approach & Methodology](#approach---methodology)
+* [Observations](#observations)
+* [Recommendations](#recommendations)
+
 ## Introduction & General Information
 (source: https://www.wikiwand.com/en/Kuala_Lumpur)
 - Kuala Lumpur, officially the Federal Territory of Kuala Lumpur and colloquially referred to as KL, is a federal territory and the capital city of Malaysia.
@@ -32,6 +40,8 @@ It is among the fastest growing metropolitan regions in Southeast Asia, in both 
 - On the other hand, cluster 0 (shown in purple color) has comparatively very less number of restaurants in the neighborhoods.
 - This represents a great opportunity and high potential areas to open new restaurant as there is very little competition from the existing ones.
 - Meanwhile, restaurants in cluster 2 are most likely suffering from intense competition due to high concentration of restaurant options available.
+
+![Neighborhood Clusters](https://github.com/setu-parekh/neighborhood-classification/blob/main/neighborhood_clusters.png)
 
 ## Recommendations
 - Investors are recommended to capitalize on these findings and open new restaurant in neighborhoods in cluster 0 (shown in purple color) with little competition.
