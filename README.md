@@ -6,6 +6,7 @@ Neighborhood classification in the city of Kuala Lumpur for opening a new restau
 * [Objectives](#objectives)
 * [Data Used](#data-used)
 * [Approach & Methodology](#approach--methodology)
+* [Run Locally](#run-locally)
 * [Observations](#observations)
 * [Recommendations](#recommendations)
 
@@ -34,6 +35,14 @@ It is among the fastest growing metropolitan regions in Southeast Asia, in both 
 - Apply K-means Clustering to generate different clusters from above data.
 - Visualize the generated clusters in a map of Kuala Lumpur using [Folium](https://python-visualization.github.io/folium/).
 - Analyze the results.
+
+## Run Locally
+* Make sure Python 3 is installed. Reference to install: [Download and Install Python 3](https://www.python.org/downloads/)
+* Clone the project: `git clone https://github.com/setu-parekh/neighborhood-classification.git`
+* Route to the cloned project: `cd neighborhood-classification`
+* Install necessary packages: `pip install -r requirements.txt`
+* Run Jupyter Notebook: `jupyter notebook`
+* Select the notebook to open: `neighborhood_classification.ipynb`
 
 ## Observations
 - Most of the restaurants are concentrated in the central area of Kuala Lumpur city, with the highest number in cluster 2 (shown in mint green color) and moderate number in cluster 1 (shown in red color).

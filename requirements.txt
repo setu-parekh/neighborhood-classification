@@ -1,0 +1,10 @@
+numpy
+pandas
+geopy
+requests
+bs4
+matplotlib
+sklearn
+folium
+geocoder
+notebook
