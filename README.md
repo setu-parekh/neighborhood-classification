@@ -1,11 +1,11 @@
 # neighborhood-classification
 Neighborhood classification in the city of Kuala Lumpur for opening a new restaurant.
 
-## Table of Contents
-* [Introduction & General Information](#introduction---general-information)
+## Summary
+* [Introduction & General Information](#introduction--general-information)
 * [Objectives](#objectives)
 * [Data Used](#data-used)
-* [Approach & Methodology](#approach---methodology)
+* [Approach & Methodology](#approach--methodology)
 * [Observations](#observations)
 * [Recommendations](#recommendations)
 
